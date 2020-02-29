@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42892" started-at="2020-02-01T03:35:31Z" finished-at="2020-02-01T03:36:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42892" started-at="2020-02-01T03:35:31Z" finished-at="2020-02-01T03:36:13Z">
+      <class name="com.app.FTestcases.VerifyFLogin">
+        <test-method status="PASS" signature="checkLogin()[pri:0, instance:com.app.FTestcases.VerifyFLogin@8bd1b6a]" name="checkLogin" duration-ms="42871" started-at="2020-01-31T22:35:31Z" finished-at="2020-01-31T22:36:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogin -->
+      </class> <!-- com.app.FTestcases.VerifyFLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
